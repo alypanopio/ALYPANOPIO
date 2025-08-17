@@ -1,0 +1,3 @@
+mistakes = input("type the number of your mistakes here: ")
+score = 100 - int(mistakes)
+print("your score is", (score))
